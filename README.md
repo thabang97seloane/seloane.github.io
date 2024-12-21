@@ -27,7 +27,7 @@ Knowledgeable IT professional with a strong foundation in setting up, maintainin
   Completion Date: July 2021  
 
 
-## 🏆 **Academic Highlights** ## 
+### 🏆 **Academic Highlights** 
 **Achieved excellent academic performance in key modules during my studies:**
 
 - Databases (3A & 3B): 85% & 76%
